@@ -2,6 +2,14 @@
 **DEM Based Pulverization.**
 A mfix pulverization model that simulates the crack propagation and ultimate break-down within an aggregate particle (assembly of a number of sub-particles) under compression.
 
+## Getting Started
+See installaton and user guide documents in the [documentation](docs) subdirectory.
+
+## Authors
+
+* Wesley Xu
+* Brett Okhuysen
+
 ## Development Practices
 
 * Code development will be peformed in a forked copy of the repo. Commits will not be 
@@ -11,15 +19,6 @@ A mfix pulverization model that simulates the crack propagation and ultimate bre
 * Sensitive information (secret keys, usernames etc) and configuration data 
   (e.g database host port) should not be checked in to the repo.
 * A practice of rebasing with the main repo should be used rather that merge commmits.
-
-## Getting Started
-
-TBD
-
-## Authors
-
-* Wesley Xu
-* Brett Okhuysen
 
 See also the list of [contributors](https://github.com/CCSI-Toolset/Pulverization/contributors) who participated in this project.
 
