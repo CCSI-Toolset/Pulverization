@@ -1,4 +1,5 @@
 # Pulverization
+
 **DEM Based Pulverization.**
 A mfix pulverization model that simulates the crack propagation and ultimate break-down within an aggregate particle (assembly of a number of sub-particles) under compression.
 
@@ -20,12 +21,12 @@ See installaton and user guide documents in the [documentation](docs) subdirecto
   (e.g database host port) should not be checked in to the repo.
 * A practice of rebasing with the main repo should be used rather that merge commmits.
 
-See also the list of [contributors](https://github.com/CCSI-Toolset/Pulverization/contributors) who participated in this project.
+See also the list of [contributors](../../contributors) who participated in this project.
 
 ## Versioning
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, 
-see the [tags on this repository](https://github.com/Pulverization/tags). 
+[releases](../../releases) or [tags](../..//tags) on this repository. 
 
 ## License & Copyright
 
